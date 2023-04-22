@@ -1,5 +1,7 @@
 # News-Recommender-Favors-Liberal
 
+Here are codes for the paper News Recommender Favors Liberals: Estimating Algorithmic Bias through Causal Inference.
+
 ## Dataset
 
 1. Download the MIND dataset from [https://msnews.github.io/](https://msnews.github.io/).
