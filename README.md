@@ -9,6 +9,7 @@
 
 ## Run the codes
 
-1. Run `chmod 777 run.sh` and `./run.sh` in `policy`.
+1. Run `chmod 777 run.sh` and `./run.sh` in `policy` to get two important effect matrixes.
+2. XXX
 
 Thanks for using our code!
