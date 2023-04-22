@@ -1,6 +1,6 @@
 # News-Recommender-Favors-Liberal
 
-Here are codes for the paper News Recommender Favors Liberals: Estimating Algorithmic Bias through Causal Inference.
+Here are data and codes for the paper News Recommender Favors Liberals: Estimating Algorithmic Bias through Causal Inference.
 
 ## Dataset
 
